@@ -92,5 +92,5 @@ Built as part of the **Samsung EnnovateX Hackathon 2025**.
 ## Authors
 
 **Team ByteBots**  
-Srikrishna, Srikanth, Kiran, Vishweshwar  
+Kiran, SriKrishna , Srikanth Vishweshwar  
 Students from IIT Hyderabad
